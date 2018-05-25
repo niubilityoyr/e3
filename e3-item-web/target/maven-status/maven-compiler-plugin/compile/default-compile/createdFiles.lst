@@ -1,0 +1,4 @@
+com\e3mall\item\pojo\Item.class
+com\e3mall\item\controller\HtmlController.class
+com\e3mall\item\message\ItemHtmlListener.class
+com\e3mall\item\controller\ItemController.class

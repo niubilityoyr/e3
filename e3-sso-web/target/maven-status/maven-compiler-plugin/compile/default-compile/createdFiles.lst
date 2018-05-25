@@ -1,0 +1,3 @@
+com\e3mall\sso\controller\TokenController.class
+com\e3mall\sso\controller\RegisterController.class
+com\e3mall\sso\controller\LoginController.class
